@@ -20,6 +20,7 @@
 ![image](https://github.com/JuneWprog/SemanticSegmentationMethodsOnRescunet/assets/77699526/4d7f2922-ee12-48a3-ab4f-513c6810abfb)
 
 ![image](https://github.com/JuneWprog/SemanticSegmentationMethodsOnRescunet/assets/77699526/1ba07c4d-5c6a-475a-afbd-51caa1806472)
+### The Comparision of Segmentation 
 ![image](https://github.com/JuneWprog/SemanticSegmentationMethodsOnRescunet/assets/77699526/ed887e58-bafc-4635-b687-73e9aab80d8a)
 
 
