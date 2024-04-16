@@ -1,4 +1,5 @@
 # Building Damage Assessment After Hurricane Semantic Segmentation On Rescuenet
+## Team memebers: Jun Wang, Tian Meng, Yinan Tang
 ## Dataset: Rescuenet
 ## Building Damage Classifications
 ![image](https://github.com/JuneWprog/SemanticSegmentationMethodsOnRescunet/assets/77699526/5825440a-af4d-4603-906a-439d2ba6ef78)
